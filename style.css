@@ -1,0 +1,42 @@
+body{
+    background-color: maroon;
+    color:white;
+    /* padding-top: 30px;; */
+}
+
+.white{
+ width:400px;
+ height:550px;
+ margin: auto;
+ background-color: beige;
+}
+
+#todo{
+  margin-top: 10px;
+    border-radius: 20px solid black ;
+   width:320px;
+   background-color: darkgray;
+   color: black;
+
+}
+#dltall{
+    width: 300px;
+    margin-top:  10px;
+}
+.delete{
+    margin:auto;
+
+}
+
+li{
+  
+    color:black;
+  padding-top: 10px;
+  text-decoration: none;
+  list-style: none;   
+  font-weight: bolder;
+  font-size: larger;
+ text-decoration: overline;
+
+
+}
